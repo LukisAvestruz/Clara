@@ -1,0 +1,71 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+    
+    #inicio{
+    width: 100%;
+    }
+    
+    #paragrafo500{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    color:white;
+
+    }
+
+p{
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+    body{
+    background-color: rgba(100, 100, 28, 0.703);
+    }
+
+    .lapis{
+        width: 120px;
+        height: 190px;
+        border-radius: 20px;
+        border: 2px solid white;
+    
+    }
+    
+    #caixa{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+    #livro1 h1{
+    margin-bottom: 15px;
+    color: white;
+    }
+    
+    #livro2 h1{
+    margin-bottom: 15px;
+    color: white;
+    }
+    
+    #livro3 h1{
+    margin-bottom: 15px;
+    color: white;
+    }
+    
+    .mapa{
+        width: 295px;
+        height: 450px;
+        margin: 0 50px 100px 50px;
+        text-align: center;
+    }
+    
+    .mapa p{
+        color: white;
+        font-size: 15px;
+        
+    }
